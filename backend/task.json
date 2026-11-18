@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1782504744791",
+    "columnID": "inProgress",
+    "title": "criar rotas usuario",
+    "priority": "Baixa",
+    "createdAt": "2026-06-26T20:12:24.791Z",
+    "createdBy": "Current User",
+    "assignedTo": "Current User"
+  },
+  {
+    "id": "1782504894766",
+    "columnID": "inProgress",
+    "title": "criar classes",
+    "priority": "Baixa",
+    "createdAt": "2026-06-26T20:14:54.766Z",
+    "createdBy": "Current User",
+    "assignedTo": "Current User"
+  },
+  {
+    "id": "1782505041326",
+    "columnID": "review",
+    "title": "criar classe usuario",
+    "priority": "Baixa",
+    "createdAt": "2026-06-26T20:17:21.326Z",
+    "createdBy": "Current User",
+    "assignedTo": "Current User"
+  },
+  {
+    "id": "1782505189775",
+    "columnID": "backlog",
+    "title": "criar classes",
+    "priority": "Baixa",
+    "effort": "",
+    "createdAt": "2026-06-26T20:19:49.775Z",
+    "createdBy": "Current User",
+    "assignedTo": "Current User"
+  },
+  {
+    "id": "1782505502908",
+    "columnID": "backlog",
+    "title": "criar servicces",
+    "priority": "Baixa",
+    "effort": "",
+    "createdAt": "2026-06-26T20:25:02.908Z",
+    "createdBy": "Current User",
+    "assignedTo": "Current User"
+  },
+  {
+    "id": "1794967972202",
+    "columnID": "backlog",
+    "createdAt": "2026-11-18T02:12:52.202Z",
+    "createdBy": "Current User",
+    "assignedTo": "Current User",
+    "isEditing": false
+  }
+]

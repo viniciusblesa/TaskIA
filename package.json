@@ -1,0 +1,16 @@
+{
+  "name": "taskia",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev:frontend": "npm run dev --workspace taskia-frontend",
+    "dev:backend": "npm run dev --workspace taskia",
+    "build": "npm run build --workspace taskia-frontend",
+    "lint": "npm run lint --workspace taskia-frontend",
+    "test": "npm test --workspace taskia"
+  }
+}
